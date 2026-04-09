@@ -25,6 +25,16 @@ Soy estudiante de Ingeniería Mecatrónica, con un fuerte interés en el control
   <img src="./logos/Automatización industrial/Logo de Siemens NX.png" width="80" hspace="8"  />
   <img src="./logos/Automatización industrial/Logo de tecnomatix.png" width="80" hspace="8"  />
 </p>
+
+<h2>🧱 Diseño CAD</h2>
+
+<p align="left">
+  <img src="./logos/Diseño CAD/Logo Inventor.png" width="80" hspace="8"  />
+  <img src="./logos/Diseño CAD/Logo MasterCam.png" width="80" hspace="8"  />
+  <img src="./logos/Diseño CAD/Logo de AutoCAD.png" height="60" hspace="8" />
+  <img src="./logos/Diseño CAD/Logo de Fusion 360.png" width="80" hspace="8"  />
+ />
+</p>
 <!--
 **JuanBeltran2024/JuanBeltran2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
