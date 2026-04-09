@@ -13,11 +13,11 @@ Soy estudiante de Ingeniería Mecatrónica, con un fuerte interés en el control
 <h2>🏭 Automatización industrial</h2>
 
 <p align="left">
-  <img src="./logos/Automatización industrial/Logo Cade simu.png" width="80" hspace="1"  />
-  <img src="./logos/Automatización industrial/Logo de FESTO FluidSIM.png" width="100" hspace="80"  />
+  <img src="./logos/Automatización industrial/Logo Cade simu.png" width="80" hspace="8"  />
+  <img src="./logos/Automatización industrial/Logo de FESTO FluidSIM.png" width="100" hspace="8"  />
   <img src="./logos/Automatización industrial/Logo Studio 5000.png" height="80" hspace="8" />
-  <img src="./logos/Automatización industrial/Logo de Siemens NX.png" width="80" hspace="1"  />
-  <img src="./logos/Automatización industrial/Logo de tecnomatix.png" width="80" hspace="1"  />
+  <img src="./logos/Automatización industrial/Logo de Siemens NX.png" width="80" hspace="8"  />
+  <img src="./logos/Automatización industrial/Logo de tecnomatix.png" width="80" hspace="8"  />
 </p>
 <!--
 **JuanBeltran2024/JuanBeltran2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
