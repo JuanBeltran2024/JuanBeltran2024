@@ -3,15 +3,15 @@
 Soy estudiante de Ingeniería Mecatrónica, con un fuerte interés en el control y la automatización industrial. Me apasiona el desarrollo de soluciones que integren diseño mecatrónico, simulación, diseño CAD e inteligencia artificial para resolver problemas de ingeniería de manera eficiente e innovadora.
 
 🛠 Habilidades Técnicas
-
+<p align="left">
 <img width="77" height="28" alt="image" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
 
 <img width="77" height="28" alt="image" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
 <img width="77" height="28" alt="image" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-<img width="77" height="28" alt="image" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-
+<img width="77" height="28" alt="image" src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
 
 
 <h2>⚡ Electronica</h2>
