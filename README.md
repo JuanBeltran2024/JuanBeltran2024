@@ -11,9 +11,9 @@ Soy estudiante de Ingeniería Mecatrónica, con un fuerte interés en el control
 <p align="left">
   <img src="./logos/Electronica/Logo LTspice.png" width="80" hspace="8"  />
   <img src="./logos/Electronica/Logo de Arduino.png" width="80" hspace="8"  />
-  <img src="./logos/Electronica/Logo de KiCad.png" height="80" hspace="8"  />
+  <img src="./logos/Electronica/Logo de KiCad.png" height="60" hspace="8"  />
   <img src="./logos/Electronica/Logo de MPLAB.png" width="80" hspace="8"  />
-  <img src="./logos/Electronica/Logo de Proteus.png" height="80" hspace="8"  />
+  <img src="./logos/Electronica/Logo de Proteus.png" height="60" hspace="8"  />
 </p>
 
 <h2>🏭 Automatización industrial</h2>
