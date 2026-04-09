@@ -14,9 +14,9 @@ Soy estudiante de Ingeniería Mecatrónica, con un fuerte interés en el control
 
 <p align="left">
   <img src="./logos/Logo Cade simu.png" width="100" />
-  <img src="./logos/Logo FESTO FluidSIM.png" width="100" />
-  <img src="./logos/Logo de siemens NX.png" width="100" />
-  <img src="./logos/Logo de tecnomatix.png" width="100" />
+  <img src="./logos/Logo de FESTO FluidSIM.png" width="100" />
+  <img src="./logos/Logo de Siemens NX.png" width="100" />
+  <img src="./logos/Logo de tecnomatix.png" width="80" />
 </p>
 <!--
 **JuanBeltran2024/JuanBeltran2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
