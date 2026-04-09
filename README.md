@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hola, Soy Juan Beltran 👋
 
+Soy estudiante de Ingeniería Mecatrónica, con un fuerte interés en el control y la automatización industrial. Me apasiona el desarrollo de soluciones que integren diseño mecatrónico, simulación, diseño CAD e inteligencia artificial para resolver problemas de ingeniería de manera eficiente e innovadora.
 <!--
 **JuanBeltran2024/JuanBeltran2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
