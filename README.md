@@ -11,6 +11,8 @@ Soy estudiante de Ingeniería Mecatrónica, con un fuerte interés en el control
 <img width="77" height="28" alt="image" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 <img width="77" height="28" alt="image" src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white" />
+
+<img width="77" height="28" alt="image" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 
