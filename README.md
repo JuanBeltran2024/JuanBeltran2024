@@ -13,7 +13,7 @@ Soy estudiante de Ingeniería Mecatrónica, con un fuerte interés en el control
 <h2>🌐 Frontend</h2>
 
 <p align="left">
-  <img src="./logos/Logo Cade simu.png" width="55" />
+  <img src="./logos/Logo Cade simu.png" width="80" />
 </p>
 <!--
 **JuanBeltran2024/JuanBeltran2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
