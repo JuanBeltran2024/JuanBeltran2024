@@ -9,8 +9,6 @@ Soy estudiante de Ingeniería Mecatrónica, con un fuerte interés en el control
 ⚡ Electronica
 
 <img width="7000" height="500" alt="image" src="https://github.com/user-attachments/assets/d001a29d-872a-4647-8301-86287212fcfa" />
-<img width="7000" height="500" alt="image" src="https://github.com/user-attachments/assets/7b313f62-a815-4964-9a85-da64017da889" />
-<img width="7000" height="500" alt="image" src="https://github.com/user-attachments/assets/fb04f4f8-9c26-4767-93dd-bc4a0903b571" />
 
 
 <!--
