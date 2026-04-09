@@ -15,7 +15,7 @@ Soy estudiante de Ingeniería Mecatrónica, con un fuerte interés en el control
 <p align="left">
   <img src="./logos/Automatización industrial/Logo Cade simu.png" width="80" hspace="1"  />
   <img src="./logos/Automatización industrial/Logo de FESTO FluidSIM.png" width="100" hspace="1"  />
-  <img src="./logos/Automatización industrial/Logo Studio 5000.png" width="80" hspace="1"  style="margin-right:20px;" />
+  <img src="./logos/Automatización industrial/Logo Studio 5000.png" width="80" hspace="1" />
   <img src="./logos/Automatización industrial/Logo de Siemens NX.png" width="80" hspace="1"  />
   <img src="./logos/Automatización industrial/Logo de tecnomatix.png" width="80" hspace="1"  />
 </p>
