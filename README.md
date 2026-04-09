@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería Mecatrónica, con un fuerte interés en el control
 <img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/164ba583-669b-4c21-8e31-44567ad5f42a" />
 <img width="52" height="28" alt="image" src="https://github.com/user-attachments/assets/56092b6b-6b49-4986-86be-cf2089e253b3" />
 <img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/5573ef2c-fe67-4d65-bfc6-00abcebc1231" />
-<img width="77" height="28" alt="image" src="![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
+<img width="77" height="28" alt="image" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 
 
