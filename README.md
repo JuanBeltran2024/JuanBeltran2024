@@ -6,6 +6,7 @@ Soy estudiante de Ingeniería Mecatrónica, con un fuerte interés en el control
 
 <img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/164ba583-669b-4c21-8e31-44567ad5f42a" />
 
+<img width="72" height="28" alt="image" src="[https://github.com/user-attachments/assets/164ba583-669b-4c21-8e31-44567ad5f42a](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
 <h2>⚡ Electronica</h2>
 
 <p align="left">
