@@ -38,8 +38,8 @@ Soy estudiante de Ingeniería Mecatrónica, con un fuerte interés en el control
 
 <h2>🤖 Robotica<h2>
   <p align="left">
-  <img src="./logos/Robotica/Logo de Epson.png" width="80" hspace="8"  />
-  <img src="./logos/Robotica/Logo de RoboDK.png"  width="60" hspace="8"  />
+  <img src="./logos/Robotica/Logo de Epson.png" height="80" hspace="8"  />
+  <img src="./logos/Robotica/Logo de RoboDK.png"  height="60" hspace="8"  />
   <img src="./logos/Robotica/Logo RobotStudio.png" width="80" hspace="8" />
 </p>
   
